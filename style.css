@@ -1,0 +1,43 @@
+body {
+	background:blue;
+}
+
+.container{
+	background-color:red;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 500px;
+}
+
+.button{
+	width: 50px;
+	height: 50px;
+	font-size: 30px;
+	margin: 2px;
+	border: none;
+	color:blue;
+	cursor: pointer;
+	background:yellow;
+}
+
+.button:hover{
+	width: 50px;
+	height: 50px;
+	font-size: 30px;
+	border: none;
+	color: yellow;
+	cursor: pointer;
+	background:blue;
+}
+
+.textarea{
+	width: 230px;
+	height: 50px;
+	border: none;
+	outline: none;
+	font-size: 20px;
+	text-align: center;
+	background:greenyellow;
+	opacity: .7;
+}
