@@ -13,7 +13,7 @@ body {
 .button{
 	width: 50px;
 	height: 50px;
-	font-size: 30px;
+	font-size: 20px;
 	margin: 2px;
 	border: none;
 	color:blue;
@@ -24,7 +24,7 @@ body {
 .button:hover{
 	width: 50px;
 	height: 50px;
-	font-size: 30px;
+	font-size: 20px;
 	border: none;
 	color: yellow;
 	cursor: pointer;
@@ -36,7 +36,7 @@ body {
 	height: 50px;
 	border: none;
 	outline: none;
-	font-size: 20px;
+	font-size: 10px;
 	text-align: center;
 	background:greenyellow;
 	opacity: .7;
